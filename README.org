@@ -1,0 +1,10 @@
+* paren6
+
+ES6 macros for Parenscript
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/BnMcGn/paren6.git   |
+| commit  | 95bc5d6  |
+| systems | paren6 |
+|---------+-------------------------------------------|
+
